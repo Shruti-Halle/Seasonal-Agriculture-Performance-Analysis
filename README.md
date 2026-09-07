@@ -1,6 +1,5 @@
 # Seasonal Agriculture Performance Analysis
 
-**VOIS AICTE Batch 1, 2026-2027 — Major Data Analytics Project**
 
 ## Overview
 This project analyzes farm-level agricultural data to investigate how performance
@@ -34,6 +33,4 @@ Agriculture
 - Profitability by crop is highly season-dependent — the same crop can swing from
   strongly profitable to loss-making depending on the season it is grown in.
 
-## Note
-This is a Data Analytics project. No Machine Learning or dashboard development
-was required or performed.
+
